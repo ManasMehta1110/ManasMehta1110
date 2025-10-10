@@ -40,7 +40,6 @@ I love experimenting with architectures, optimizing models, and building intelli
 ---
 
 ## 💬 Let’s Connect
-- 🌐 [GitHub](https://github.com/ManasMehta1110)  
 - 💼 [LinkedIn](www.linkedin.com/in/manas-mehta1110)  
 - ✉️ manasmehta1110@gmail.com 
 
