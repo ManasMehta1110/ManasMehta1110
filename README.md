@@ -42,6 +42,6 @@ I love experimenting with architectures, optimizing models, and building intelli
 ## 💬 Let’s Connect
 - 🌐 [GitHub](#)  
 - 💼 [LinkedIn](#)  
-- ✉️ manas.mehta@example.com *(replace with your real one)*  
+- ✉️ manasmehta1110@gmail.com 
 
 > “I’m not just building models — I’m building understanding.”  
