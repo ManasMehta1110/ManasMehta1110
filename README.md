@@ -19,8 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=ManasMehta1110&style=for-the-badge&color=00ff88" alt="profile views" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="#about">ABOUT</a> | <a href="#projects">PROJECTS</a> | <a href="#tech-stack">TECH-STACK</a> | <a href="#achievements">ACHIEVEMENTS</a> | <a href="#stats">STATS</a>
+  <a href="#about">ABOUT</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#projects">PROJECTS</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#tech-stack">TECH-STACK</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#achievements">ACHIEVEMENTS</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#stats">STATS</a>
 </div>
 
 <br/>
@@ -30,30 +32,28 @@
 <details open>
 <summary><b>INSERT COIN TO START</b></summary>
 
-<table>
-  <tr>
-    <td>
-      <pre>
-+--------------------------------------------------+
-| ARCADE CABINET                                  |
-|                                                  |
-| PLAYER: Manas Mehta                              |
-| ROLE  : ML Engineer                              |
-| FOCUS : Computer Vision, NLP, LLMs               |
-| MODE  : Research and production ML systems       |
-+--------------------------------------------------+
-      </pre>
-    </td>
-    <td>
-      <pre>
+<div align="center">
+  <pre>
++--------------------------------------+
+| ARCADE CABINET                        |
+|                                      |
+| PLAYER: Manas Mehta                   |
+| ROLE  : ML Engineer                   |
+| FOCUS : Computer Vision, NLP, LLMs    |
+| MODE  : Research and production ML    |
+|         systems                       |
++--------------------------------------+
+  </pre>
+</div>
+
+<div align="center">
+  <pre>
 HIGH SCORE
 - SIH 2025 National Finalist
 - Meta x PyTorch OpenEnv Finalist
 - Research paper under submission
-      </pre>
-    </td>
-  </tr>
-</table>
+  </pre>
+</div>
 
 </details>
 
@@ -131,18 +131,17 @@ concepts    = ["CNNs", "Transformers", "SCST", "RAG", "Super-Resolution"]
 ## STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&icon_color=00ff88&text_color=c9fbe5&cache_seconds=86400" alt="github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&text_color=c9fbe5&cache_seconds=86400" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManasMehta1110&theme=github_dark" alt="github stats" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManasMehta1110&theme=github_dark" alt="top languages" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=ManasMehta1110&theme=dark&hide_border=true&background=0B0F14&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="streak stats" />
 </div>
 
 <details>
 <summary><b>ARCADE EXTRA</b></summary>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=matrix&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManasMehta1110&theme=github_dark" alt="profile details" />
 
 </details>
 
