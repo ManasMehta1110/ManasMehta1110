@@ -1,36 +1,101 @@
-# 👋 Manas Mehta
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:00ff88&height=140&text=MANAS%20MEHTA&fontSize=34&fontColor=00ff88&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20NLP%20%7C%20LLMs&descAlign=50&descSize=12" alt="Manas Mehta" />
+</div>
 
-**ML Engineer · Computer Vision · NLP · LLMs**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF88&center=true&vCenter=true&width=820&lines=BUILDING+DEEP+LEARNING+SYSTEMS;COMPUTER+VISION+AND+NLP;RAG+PIPELINES+%7C+LLM+FINE-TUNING+%7C+RL+ENVS" alt="typing intro" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-mehta-299b31314)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manasmehta1110@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/ManasMehta1110)
+<div align="center">
+  <a href="https://linkedin.com/in/manas-mehta-299b31314">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manasmehta1110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://huggingface.co/ManasMehta1110">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ManasMehta1110&style=for-the-badge&color=00ff88" alt="profile views" />
+</div>
+
+<div align="center">
+  <a href="#about">ABOUT</a> | <a href="#projects">PROJECTS</a> | <a href="#tech-stack">TECH-STACK</a> | <a href="#achievements">ACHIEVEMENTS</a> | <a href="#stats">STATS</a>
+</div>
 
 ---
 
-## 🧠 About
+<details open>
+<summary><b>INSERT COIN TO START</b></summary>
 
-3rd year B.Tech CS&E student at GLS University, Ahmedabad.
-I build deep learning systems at the intersection of **Computer Vision** and **NLP** — from satellite imagery super-resolution to image captioning to RL environments.
+<table>
+  <tr>
+    <td>
+      <pre>
++--------------------------------------------------+
+| ARCADE CABINET                                  |
+|                                                  |
+| PLAYER: Manas Mehta                              |
+| ROLE  : ML Engineer                              |
+| FOCUS : Computer Vision, NLP, LLMs               |
+| MODE  : Research and production ML systems       |
++--------------------------------------------------+
+      </pre>
+    </td>
+    <td>
+      <pre>
+HIGH SCORE
+- SIH 2025 National Finalist
+- Meta x PyTorch OpenEnv Finalist
+- Research paper under submission
+      </pre>
+    </td>
+  </tr>
+</table>
 
-🏆 SIH 2025 National Finalist | 🤖 Meta × PyTorch Finalist | 📄 Research under review
+</details>
 
-Currently exploring: **RAG pipelines · LLM fine-tuning · RL environments for LLM training**
+## ABOUT
+
+3rd year B.Tech CSE student at GLS University, Ahmedabad. I build deep learning systems at the intersection of Computer Vision and NLP, from satellite imagery super-resolution to image captioning to RL environments.
+
+Currently exploring: RAG pipelines | LLM fine-tuning | RL environments for LLM training
+
+"I am not just building models -- I am building understanding."
 
 ---
 
-## 🚀 Projects
+## PROJECTS
+
+<details open>
+<summary><b>FEATURED BUILDS</b></summary>
 
 | Project | Description | Stack | Metrics |
-|---|---|---|---|
-| **InfraNova** | Dual-Stream EDSR optical-guided thermal super-resolution | PyTorch · Streamlit · Rasterio | PSNR 42.4dB · SSIM 0.9269 |
-| **Image Captioning** | SE-ResNet-50-D + LSTM w/ SCST on MS-COCO | PyTorch · HuggingFace | BLEU-4 0.2301 · CIDEr 0.6236 |
-| **DataSelectEnv** | RL env for LLM training data curation | PyTorch · OpenEnv · Docker | Finalist |
-| **BERT FakeNews** | Fine-tuned RoBERTa on LIAR dataset | RoBERTa · Gradio | — |
+| --- | --- | --- | --- |
+| InfraNova | Dual-Stream EDSR optical-guided thermal super-resolution | PyTorch, Streamlit, Rasterio | PSNR 42.4 dB, SSIM 0.9269 |
+| Image Captioning | SE-ResNet-50-D + LSTM with SCST on MS-COCO | PyTorch, HuggingFace | BLEU-4 0.2301, CIDEr 0.6236 |
+| DataSelectEnv | RL env for LLM training data curation | PyTorch, OpenEnv, Docker | Finalist |
+| BERT FakeNews | Fine-tuned RoBERTa on LIAR dataset | RoBERTa, Gradio | N/A |
+
+</details>
+
+<details>
+<summary><b>POPULAR REPOS</b></summary>
+
+- https://github.com/ManasMehta1110/Image-Captioning
+- https://github.com/ManasMehta1110/Image-Captioning-using-Resnet-D-with-SE-blocks
+- https://github.com/ManasMehta1110/Optical-Guided-Super-Resolution
+- https://github.com/ManasMehta1110/DataSelectEnv
+- https://github.com/ManasMehta1110/BERT-FakeNews-Detector
+
+</details>
 
 ---
 
-## 🛠 Tech Stack
+## TECH-STACK
+
+<details open>
+<summary><b>LOADOUT</b></summary>
 
 ```python
 languages   = ["Python", "SQL"]
@@ -39,24 +104,40 @@ mlops       = ["Docker", "MLflow", "W&B", "FastAPI", "Streamlit"]
 concepts    = ["CNNs", "Transformers", "SCST", "RAG", "Super-Resolution"]
 ```
 
----
-
-## 🏅 Achievements
-
-- 🏆 **SIH 2025 National Finalist** — Remote Sensing & Geospatial Domain
-- 🤖 **Meta × PyTorch OpenEnv Hackathon Finalist** — Scaler, 2026
-- 📄 **Research Paper Under Submission** — Image Captioning, MS-COCO
-- 🎓 **Deep Learning Specialization** — DeepLearning.AI · Oct 2025
-- 🎓 **Machine Learning Specialization** — Stanford & DeepLearning.AI · May 2025
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## ACHIEVEMENTS
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+- SIH 2025 National Finalist - Remote Sensing and Geospatial Domain
+- Meta x PyTorch OpenEnv Hackathon Finalist - Scaler, 2026
+- Research paper under submission - Image Captioning, MS-COCO
+- Deep Learning Specialization - DeepLearning.AI, Oct 2025
+- Machine Learning Specialization - Stanford and DeepLearning.AI, May 2025
 
 ---
 
-*"I'm not just building models — I'm building understanding."*
+## STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&icon_color=00ff88&text_color=c9fbe5" alt="github stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&text_color=c9fbe5" alt="top langs" />
+  <img src="https://streak-stats.demolab.com?user=ManasMehta1110&theme=dark&hide_border=true&background=0B0F14&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="streak stats" />
+</div>
+
+<details>
+<summary><b>ARCADE EXTRA</b></summary>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=matrix&no-frame=true&row=1&column=7" alt="trophies" />
+
+</details>
+
+---
+
+<div align="center">
+  <sub>RETRO MODE ACTIVE. PRESS START TO COLLAB.</sub>
+</div>
