@@ -23,6 +23,8 @@
   <a href="#about">ABOUT</a> | <a href="#projects">PROJECTS</a> | <a href="#tech-stack">TECH-STACK</a> | <a href="#achievements">ACHIEVEMENTS</a> | <a href="#stats">STATS</a>
 </div>
 
+<br/>
+
 ---
 
 <details open>
@@ -55,13 +57,17 @@ HIGH SCORE
 
 </details>
 
+<br/>
+
 ## ABOUT
 
-3rd year B.Tech CSE student at GLS University, Ahmedabad. I build deep learning systems at the intersection of Computer Vision and NLP, from satellite imagery super-resolution to image captioning to RL environments.
+- 3rd year B.Tech CSE student at GLS University, Ahmedabad.
+- Building deep learning systems at the intersection of Computer Vision and NLP, from satellite imagery super-resolution to image captioning to RL environments.
+- Currently exploring: RAG pipelines | LLM fine-tuning | RL environments for LLM training.
 
-Currently exploring: RAG pipelines | LLM fine-tuning | RL environments for LLM training
+> "I am not just building models -- I am building understanding."
 
-"I am not just building models -- I am building understanding."
+<br/>
 
 ---
 
@@ -90,6 +96,8 @@ Currently exploring: RAG pipelines | LLM fine-tuning | RL environments for LLM t
 
 </details>
 
+<br/>
+
 ---
 
 ## TECH-STACK
@@ -106,6 +114,8 @@ concepts    = ["CNNs", "Transformers", "SCST", "RAG", "Super-Resolution"]
 
 </details>
 
+<br/>
+
 ---
 
 ## ACHIEVEMENTS
@@ -121,20 +131,22 @@ concepts    = ["CNNs", "Transformers", "SCST", "RAG", "Super-Resolution"]
 ## STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&icon_color=00ff88&text_color=c9fbe5" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&icon_color=00ff88&text_color=c9fbe5&cache_seconds=86400" alt="github stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&text_color=c9fbe5" alt="top langs" />
-  <img src="https://streak-stats.demolab.com?user=ManasMehta1110&theme=dark&hide_border=true&background=0B0F14&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=00ff88&text_color=c9fbe5&cache_seconds=86400" alt="top langs" />
+  <img src="https://streak-stats.demolab.com/?user=ManasMehta1110&theme=dark&hide_border=true&background=0B0F14&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="streak stats" />
 </div>
 
 <details>
 <summary><b>ARCADE EXTRA</b></summary>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=matrix&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=matrix&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="trophies" />
 
 </details>
+
+<br/>
 
 ---
 
