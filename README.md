@@ -70,9 +70,14 @@ Currently exploring: **RAG pipelines · LLM fine-tuning · RL environments for L
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ManasMehta1110&theme=tokyonight&hide_border=true)](https://github.com/ManasMehta1110)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ManasMehta1110)
-
 </div>
+
+| Metric | Value |
+|---|---|
+| 🗓️ Contributions (all time) | 309+ |
+| 🔥 Longest Streak | 3 days (Dec 7–9, 2025) |
+| ⭐ Total Stars Earned | 7 |
+| 📦 Public Repositories | 9 |
 
 ---
 
