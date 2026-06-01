@@ -76,11 +76,11 @@ Currently exploring: **RAG pipelines · LLM fine-tuning · RL environments for L
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ManasMehta1110)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ManasMehta1110)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ManasMehta1110&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ManasMehta1110&theme=tokyonight&hide_border=true)](https://github.com/ManasMehta1110)
 
 </div>
 
