@@ -38,30 +38,22 @@ Currently exploring: **RAG pipelines · LLM fine-tuning · RL environments for L
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) &nbsp;
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) &nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) &nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev) &nbsp;
+[![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+</div>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Also working with:** HuggingFace Transformers · MLflow · Weights & Biases · Streamlit · Rasterio · NumPy
 
-**MLOps & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Concepts**
-
-`CNNs` `Transformers` `Attention` `SCST` `RAG` `Super-Resolution` `RL`
+**Concepts:** `CNNs` `Transformers` `Attention` `SCST` `RAG` `Super-Resolution` `RL`
 
 ---
 
@@ -76,11 +68,9 @@ Currently exploring: **RAG pipelines · LLM fine-tuning · RL environments for L
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManasMehta1110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/ManasMehta1110)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManasMehta1110&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ManasMehta1110)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ManasMehta1110&theme=tokyonight&hide_border=true)](https://github.com/ManasMehta1110)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ManasMehta1110&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ManasMehta1110)
 
 </div>
 
